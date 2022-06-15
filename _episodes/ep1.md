@@ -21,11 +21,11 @@ Also bear in mind that FAIR principles are not only applied to data but also to 
 In this lesson, we will explain FAIR principles and how FAIR principles will help you properly manage your data.
 
 ## What is FAIR?
-The FAIR publication of 2016 makes reference to the FAIR principles which are:
-- F stands for Findable 
-- A stands for Accessible 
-- I stands for Interoperable 
-- R stands for Reusable 
+The [FAIR](https://fair.org) publication of 2016 makes reference to the FAIR principles which are:
+1. F stands for Findable 
+2. A stands for Accessible 
+3. I stands for Interoperable 
+4. R stands for Reusable 
 
 ![FAIR principles https://www.scibite.com/solutions/enterprise-fair-data-mdm/](../fig/FAIR.png)
 
@@ -84,6 +84,8 @@ These categories are:
 -	I2: (Meta)data use vocabularies that follow the FAIR principles
 
 -	I3: (Meta)data include qualified references to other (meta)data
+
+- I4: Link to FAIRsharing	
 
 > ## Watch this video to know what is I in FAIR through different examples
 > https://docs.google.com/presentation/d/15jRnCLWnjk-3klwRJBc5cQomfqu8BRdv/edit#slide=id.p2
