@@ -16,7 +16,6 @@ keypoints:
 - Metadata is key component in the process of FAIRification
 ---
 
-
 The FAIR principles were created to help researchers share, reuse, and manage their data.  A common layperson's interpretation of FAIR data is a dataset that can be:
 - discovered and downloaded by others; and
 - interpreted correctly through the provision of detailed descriptions about the data.
